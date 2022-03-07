@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=300&text=Hello%20World!&fontAlignY=40&desc=Sujung's%20Github%20Profile&fontColor=ffffff&descAlign=70&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=220&text=welcome&fontAlignY=35&desc=Sujung's%20Github%20Profile&fontColor=ffffff&descAlign=60&descAlignY=47&descSize=20&fontSize=55)
 
   <br/>
 <b>📚Tech Stack📚</b> <br/><br/>
@@ -28,7 +28,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sj&layout=compact&theme=tokyonight)
  -->
 
-![footer](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=100&section=footer)
 
 </div>
 

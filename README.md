@@ -28,7 +28,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sj&layout=compact&theme=tokyonight)
  -->
 
-![footer](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=100&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=100&section=footer) -->
 
 </div>
 

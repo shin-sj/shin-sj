@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Git-FF4470?style=flat-square&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-00A98F?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-9999FF?style=flat-square&logo=Linux&logoColor=white"/></a>
-
+ 
 
 <br/>
 <b>✨My stats✨</b> <br/><br/>

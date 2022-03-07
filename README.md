@@ -9,12 +9,13 @@
 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-2F8D46?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-7FADF2?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-29B2FE?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <br/><img src="https://img.shields.io/badge/Mysql-CC2927?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node-67A4AC?style=flat-square&logo=ts-node&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-7FADF2?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-FF4470?style=flat-square&logo=git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-00A98F?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-9999FF?style=flat-square&logo=Linux&logoColor=white"/></a>
  

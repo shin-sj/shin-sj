@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/React-7FADF2?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-29B2FE?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <br/><img src="https://img.shields.io/badge/Mysql-CC2927?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node-67A4AC?style=flat-square&logo=ts-node&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-FF4470?style=flat-square&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/></a>

@@ -33,6 +33,8 @@
 
 <b>🏅Ranking🏅</b><br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=konshin)](https://solved.ac/konshin/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=konshin&theme=warm)
+
 </div>
 
 

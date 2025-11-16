@@ -1,57 +1,60 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=220&text=welcome&fontAlignY=35&desc=Sujeong's%20Github%20Profile&fontColor=ffffff&descAlign=60&descAlignY=47&descSize=20&fontSize=55)
+<div align="center">
 
-  <br/>
-<b>📚Tech Stack📚</b> <br/><br/>
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-2F8D46?style=flat-square&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-7FADF2?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-29B2FE?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<br/><img src="https://img.shields.io/badge/Mysql-CC2927?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node-67A4AC?style=flat-square&logo=ts-node&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Git-FF4470?style=flat-square&logo=git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-00A98F?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-9999FF?style=flat-square&logo=Linux&logoColor=white"/></a>
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=250&section=header&text=Hi!%20I'm%20Sujeong&fontSize=60&fontColor=ffffff&animation=twinkling)
 
 <br/>
-<b>✨My stats✨</b> <br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-sj&show_icons=true&theme=aura_dark)
-<br/><br/>
+## 🎓 Education
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sj&layout=compact&theme=tokyonight)
- -->
+🌸 **B.S. in Computer Science & HCI Science**  
+🌸 **M.S. in Big Data Convergence** *(in progress)*
 
-<!-- ![footer](https://capsule-render.vercel.app/api?type=Shark&&color=0:ff9a9e,100:fad0c4&height=100&section=footer) -->
+<br/>
 
-<b>🏅Ranking🏅</b><br/><br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=konshin)](https://solved.ac/konshin/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=konshin&theme=warm)
+## 🛠️ Tech Stack 🛠️
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+
+**Desktop**  
+![.NET](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
+
+**Mobile**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
+
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+
+**Etc**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
+
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=shin-sj&show_icons=true&theme=dracula&hide_border=true&icon_color=FF69B4&title_color=FF1493&text_color=FFB6C1&bg_color=0D1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sj&layout=compact&theme=dracula&hide_border=true&title_color=FF1493&text_color=FFB6C1&bg_color=0D1117" height="170" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=120&section=footer)
 
 </div>
 
 
 
 
-
-<!--
-**shin-sj/shin-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

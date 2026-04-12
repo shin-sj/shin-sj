@@ -46,11 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shin-sj&show_icons=true&theme=dracula&hide_border=true&icon_color=FF69B4&title_color=FF1493&text_color=FFB6C1&bg_color=0D1117" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sj&layout=compact&theme=dracula&hide_border=true&title_color=FF1493&text_color=FFB6C1&bg_color=0D1117" height="170" />
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=120&section=footer)
 
 </div>

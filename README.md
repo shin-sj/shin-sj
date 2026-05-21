@@ -1,6 +1,9 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=250&section=header&text=SUJEONG'S%20LOG&fontSize=30&fontColor=ffffff&animation=twinkling)
+<img src="https://github.com/shin-sj.png" width="120" align="left" hspace="25" />
+
+### Sujeong Shin 
+📍 Seoul, South Korea
+
+<br clear="left"/>
 
 <!--
 <br/>
@@ -43,10 +46,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=120&section=footer)
 -->
-
-</div>

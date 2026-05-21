@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=250&section=header&text=WELCOME%20TO%20MY%20PAGE&fontSize=60&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=250&section=header&text=SUJEONG'S%20LOG&fontSize=30&fontColor=ffffff&animation=twinkling)
 
 <!--
 <br/>

@@ -8,7 +8,7 @@
 
 🌸 **B.S. in Computer Science & HCI Science**  
 🌸 **M.S. in Big Data Convergence** *(in progress)*
-
+<!--
 <br/>
 
 ## 🛠️ Tech Stack 🛠️
@@ -42,6 +42,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
+
+-->
 
 
 ---

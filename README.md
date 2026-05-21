@@ -1,14 +1,14 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=250&section=header&text=Hi!%20I'm%20Sujeong&fontSize=60&fontColor=ffffff&animation=twinkling)
-
+<!--
 <br/>
 
 ## 🎓 Education
 
 🌸 **B.S. in Computer Science & HCI Science**  
 🌸 **M.S. in Big Data Convergence** *(in progress)*
-<!--
+
 <br/>
 
 ## 🛠️ Tech Stack 🛠️
@@ -43,13 +43,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 
--->
+
 
 
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD1DC,100:FFC0CB&height=120&section=footer)
-
+-->
 </div>
 
 
